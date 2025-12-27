@@ -2,7 +2,7 @@
 
 Autonomous AI trading agent on **Solana** that analyzes pump.fun tokens in real-time and executes trades based on machine learning patterns and market signals.
 
-**Status**: Active | **Network**: Solana Mainnet | **Token**: $DEGEN
+**Status**: Active | **Network**: Solana Mainnet | **Token**: $LLM-degen
 
 ---
 
